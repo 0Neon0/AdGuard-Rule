@@ -1,4 +1,4 @@
-# Update time: 2025-05-09 20:19:11
+# Update time: 2025-05-10 08:48:30
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -64,7 +64,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -97,6 +96,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -161,6 +161,38 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+||ad*.aginomoto.com
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
+<script>
+            pageOptions
+    xhr.send();
+            } else {
+h1 {
+	}
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+                arguments.push(this[possibleArguments[i]]);
+        }
+};
+			Buy this domain. | More domains at Seo.Domains
+                }
+            2025 Copyright | All Rights Reserved.
+                console.log(JSON.parse(xhr.responseText))
+<style>
+        ];
+<head>
+    Privacy Policy
+    }
+                    return;
+    };
+    <script>
+<!DOCTYPE html>
+body {
+                console.log('There was a problem with the request.');
+            }
+        return arguments;
+}
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||dm-*.toutiao.com^
@@ -262,9 +294,6 @@ advertisers.js|
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
-||ad*.aginomoto.com
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||ping*.qq.com^
@@ -282,7 +311,6 @@ advertisers.js|
 ||collector-*.us.tvsquared.com^
 ||mon-*.lemon8-app.us^
 ||mon-*.lemon8-app.com^
-||telemetry*.transcend.io^
 ||log*-misc-lf.amemv.com^
 ||stats2.*.fdnames.com^
 ||v*.denakop.com^
@@ -336,7 +364,6 @@ advertisers.js|
 ||cs*.mp3bars.com^
 ||zazgiyoh*.xyz^
 ||stats*.credit-cooperatif.coop^
-||tracking*.euroads.fi^
 ||ulog*.*^
 ||mcs-*.tiktok.com^
 ||ifengad.*.ifeng.com^
@@ -391,7 +418,6 @@ advertisers.js|
 ||eum*.instana.io^
 ||report.*.gbqofs.io^
 ||ads*-normal-lq.zijieapi.com^
-||tnc16-*.byteoversea.com^
 ||fads*s.com^
 ||ads-dmp-collect.*.karrotmarket.com^
 ||firebaselogging-*.googleapis.com^
@@ -403,7 +429,6 @@ advertisers.js|
 ||pangolin-sdk-toutiao*.com^
 ||collector-*.luigisbox.com^
 ||clog*.yuanfudao.com^
-||creative*.bidease.com^
 ||mapi-log.qoo*.jp^
 ||api16-access-ttp*.tiktokpangle-b.us^
 ||w*.*skwai.com^
@@ -521,6 +546,7 @@ advertisers.js|
 analytics-*.aasaam.com
 ||an.yandex.
 ||gtmdev.jabra.
+||creative*.bidease.com^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
@@ -545,6 +571,7 @@ analytics-*.aasaam.com
 ||23.109.82.
 ||u*.takru.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
+||telemetry*.transcend.io^
 ||cnt.vivatube.
 ||rotabanner.
 ||www.fuze-sea*.xyz^
@@ -615,6 +642,7 @@ analytics-*.aasaam.com
 ||grs.dbankcloud.
 ||tracking-v*.a.run.app^
 ||collector.hamsterix.
+||tracking*.euroads.fi^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||i-*.ci360.sas.com^
 ||a*.smlog.co.kr^
@@ -701,6 +729,7 @@ analytics-*.aasaam.com
 ||zbb.bbb.*.pics^
 ||tw*.netcore.co.in^
 ||v*.sitecounter.site^
+||tnc16-*.byteoversea.com^
 ||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
 rgmechanicsgames.com*VPN.exe
