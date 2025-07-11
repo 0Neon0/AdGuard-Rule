@@ -1,4 +1,4 @@
-# Update time: 2025-07-10 20:21:13
+# Update time: 2025-07-11 08:55:24
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -164,41 +164,36 @@ advertisers.js|
 ||ad*.aginomoto.com
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
-                }
-    })();
-                console.log(JSON.parse(xhr.responseText))
-<style>
-<head>
-    (function () {
-    }
 <script>
     <noscript>
+            pageOptions
     xhr.send();
-                    return;
             } else {
+h1 {
 	}
-<div>
-iframe {
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+                arguments.push(this[possibleArguments[i]]);
         }
-body {
-<body>
-                console.log('There was a problem with the request.');
-            }
-}
 };
 			Buy this domain. | More domains at Seo.Domains
-    };
-h1 {
-        loadFeed(...getLoadFeedArguments());
+                }
             2025 Copyright | All Rights Reserved.
-    function getLoadFeedArguments() {
-    <script>
+                console.log(JSON.parse(xhr.responseText))
+<style>
         ];
-                arguments.push(this[possibleArguments[i]]);
-<!DOCTYPE html>
+<head>
     Privacy Policy
+    }
+                    return;
+    };
+    <script>
+<!DOCTYPE html>
+body {
+                console.log('There was a problem with the request.');
+            }
         return arguments;
-            pageOptions
+}
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||dm-*.toutiao.com^
