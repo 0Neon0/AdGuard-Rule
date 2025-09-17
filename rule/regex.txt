@@ -1,4 +1,4 @@
-# Update time: 2025-09-16 20:19:59
+# Update time: 2025-09-17 08:46:35
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -192,14 +192,6 @@ body {
             }
         return arguments;
 }
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
-        console.log('Callback complete.');
-    })();
-<div>
-iframe {
-    (function () {
-<body>
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||dm-*.toutiao.com^
@@ -301,6 +293,14 @@ iframe {
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
+        console.log('Callback complete.');
+    })();
+<div>
+iframe {
+    (function () {
+<body>
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
 ||us.*.qwadro.com^
 ||tnc16-*.byteoversea.com^
 ||pixel*.production-public.tubi.io^
@@ -374,7 +374,6 @@ iframe {
 ||ads*.textra.me^
 ||aj2*.online^
 ||cs*.mp3bars.com^
-||tracking-v*.a.run.app^
 ||zazgiyoh*.xyz^
 ||stats*.credit-cooperatif.coop^
 ||tracking*.euroads.fi^
@@ -485,7 +484,6 @@ iframe {
 ||event.*.karrotmarket.com^
 ||a*.chajiaotong.com^
 ||gads*s.com^
-||trk*.vidible.tv^
 ||gscounters.*.gigya.com^
 ||adserver.*.yahoodns.net^
 ||fads*z.com^
@@ -592,6 +590,7 @@ analytics-*.aasaam.com
 ||bondzgi*.
 ||etargetnet.*.hu^
 ||ulog-*.ksapisrv.com^
+||prebid-*.rubiconproject.com^
 ||rum*.cdnvideo.ru^
 ||sgtm.fashionunited.
 ||partner.superbahisaffiliates*.com^
@@ -631,6 +630,7 @@ analytics-*.aasaam.com
 ||suite*.linximpulse.net^
 ||cnt.nuvid.
 ||servo-report.dvdfab.
+||trk*.vidible.tv^
 ||pop-under.
 ||sock*-goguardian.pusher.com^
 ||basvformu*.xyz^
@@ -670,6 +670,7 @@ analytics-*.aasaam.com
 ||ecommerce-events*.adscale.com^
 ||counter*.freecounter.ovh^
 ||grs.dbankcloud.
+||tracking-v*.a.run.app^
 ||collector.hamsterix.
 ||logstash-*.radio-canada.ca^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
@@ -775,5 +776,4 @@ rgmechanicsgames.com*VPN.exe
 ||ads.livetv*.me^
 ||142.91.159.
 ||fxhpaoxqyajvmdg.
-||prebid-*.rubiconproject.com^
 Banner468x60
