@@ -1,4 +1,4 @@
-# Update time: 2025-11-12 20:21:38
+# Update time: 2025-11-13 08:52:33
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -139,6 +139,7 @@ advertisers.js|
 ||uc*.atobo.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
+||bdlm*.hc360.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||fpb*.51edu.com^
@@ -297,7 +298,6 @@ advertisers.js|
 ||us.*.qwadro.com^
 ||aj2*.online^
 ||cs*.mp3bars.com^
-||ecommerce-events*.adscale.com^
 ||tracking-v*.a.run.app^
 ||zazgiyoh*.xyz^
 ||stats*.credit-cooperatif.coop^
@@ -370,7 +370,6 @@ advertisers.js|
 ||host*.rigbyandpeller.com^
 ||analytics.*.sky.com^
 ||servo-report.keepstreams.*^
-||tw*.netcore.co.in^
 ||pangolin-sdk-toutiao*.com^
 ||collector-*.luigisbox.com^
 ||clog*.yuanfudao.com^
@@ -395,7 +394,6 @@ advertisers.js|
 ||browser-intake-*-datadoghq.com^
 ||get*bannerads-6egeg2u34q-du.a.run.app^
 ||collector-*.px-cdn.net^
-||ulog*.gifshow.com^
 ||ads*.zijieapi.com^
 ||host*.polaroid.com^
 ||www.xxmh*.com^
@@ -439,14 +437,12 @@ advertisers.js|
 ||ads*-normal*.zijieapi.com^
 ||xy-*pcdn.msstatic.com^
 ||ac*.faxingchina.com^
-||use-trk*.bluevoox.com^
 ||log*.aliyuncs.com^
 ||geoloc*.geovisite.ovh^
 ||beacon-*.helpscout.net^
 ||adcs-*.myappsget.com^
 ||mssdk*.capcutapi.com^
 ||t*.zcvh.net^
-||ulog*.kwai-pro.com^
 ||res*.pinpai8.cn^
 ||zcchyw*.xyz^
 ||log*-misc-lq.amemv.com^
@@ -477,9 +473,7 @@ advertisers.js|
 ||fp-*it*.fengkongcloud.com^
 ||aj3*.bid^
 ||host*.rvshare.com^
-||ulog*.kwaipros.com^
 ||log*-*.tiktokv.com^
-||events-*.op.hicloud.com^
 ||zbc6hye*.xyz^
 ||logs-*.rebxgame.com^
 ||promo-*.vercel.app^
@@ -495,7 +489,6 @@ advertisers.js|
 ||js.*2023*.live^
 ||collect-v*.51.la^
 ||logger-*.dailymotion.com^
-||bdlm*.hc360.com^
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||aan.amazon.*^
@@ -549,6 +542,7 @@ analytics-*.aasaam.com
 ||advert*.ultraweb.hu^
 ||edgetrksvc.ebay.
 ||stats.zone-telechargement.
+||ulog*.gifshow.com^
 ||eclog*-*.cafe24.com^
 ||clk.rtpdn*.com^
 ||flipflapflo.
@@ -596,6 +590,7 @@ analytics-*.aasaam.com
 ||rehs.*.hu^
 ||cdn*.swaxis.com^
 ||srmdata-*.com^
+||use-trk*.bluevoox.com^
 ||adimg*.search.naver.net^
 ||log*.zijieapi.com^
 ||icq-window.
@@ -604,7 +599,9 @@ analytics-*.aasaam.com
 ||st-n.ads*-adnow.com^
 ||cnt.winporn.
 ||logs*.smithsonian.museum^
+||ulog*.kwai-pro.com^
 ||bar*.shinobi.jp^
+||ecommerce-events*.adscale.com^
 ||counter*.freecounter.ovh^
 ||grs.dbankcloud.
 ||collector.hamsterix.
@@ -635,6 +632,8 @@ analytics-*.aasaam.com
 ||cnt.proporn.
 ||popuptraf.
 ||as*.prog.hu^
+||ulog*.kwaipros.com^
+||events-*.op.hicloud.com^
 ||cnt.tubeon.
 ||vst.videolink.
 ||videoclik.
@@ -695,6 +694,7 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||zbb.bbb.*.pics^
+||tw*.netcore.co.in^
 ||v*.sitecounter.site^
 ||touch.yesim.
 ||reachableads-av.*.amazonaws.com^
@@ -710,51 +710,3 @@ rgmechanicsgames.com*VPN.exe
 ||142.91.159.
 ||fxhpaoxqyajvmdg.
 Banner468x60
-                }
-    })();
-        function handleRTBFailure() {
-                console.log(JSON.parse(xhr.responseText))
-    (function () {
-            console.log('Failure callback complete.');
-            document.getElementById('loading')?.remove();
-    }
-<script>
-    <style>
-    <noscript>
-    xhr.send();
-                    return;
-    };
-            } else {
-h1 {
-iframe {
-                return;
-body {
-<body>
-            handleRTBFailure();
-                console.log('There was a problem with the request.');
-            }
-        document.getElementById('content')?.remove();
-    })
-        h1 {
-        p {
-        footer {
-<style>
-<head>
-  console.log('Callback complete.');
-        body {
-        iframe {
-        return JSON.parse(await response.text());
-        window.onRTBFailure();
-            return null;
-            console.log(data);
-        } else {
-	}
-<div>
-    <script>
-        console.error(error);
-    document.getElementById('content').remove();
-        }
-    });
-            window.onRTBFailure();
-};
-			Buy this domain. | More domains at Seo.Domains
